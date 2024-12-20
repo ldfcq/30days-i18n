@@ -13,3 +13,7 @@
 * [español](readmes/es/README.md)
 
 
+# ./streamlit-1.21.0-py2.py3-none-any.whl
+# langcodes
+# language-data
+# numpy
